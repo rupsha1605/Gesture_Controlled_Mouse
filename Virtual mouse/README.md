@@ -254,6 +254,16 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 <div align="center">
 
+screenshots
+
+<img width="727" height="391" alt="image" src="https://github.com/user-attachments/assets/5e7de711-2005-4364-b1ec-0faaacf3bcb6" />
+Figure 1: Zoom out: zoom out
+
+<img width="444" height="368" alt="image" src="https://github.com/user-attachments/assets/9c8474ce-9980-4136-8007-f8fdd7733b47" />
+Figure 2: Move cursor on desktop
+
+
+
 Made with ❤️ using Python, MediaPipe & OpenCV
 
 ⭐ **Star this repo if you found it useful!** ⭐
